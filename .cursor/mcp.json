@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lucis-app": {
+      "type": "http",
+      "url": "https://localhost-5f48e44a.deco.host/mcp"
+    }
+  }
+}
